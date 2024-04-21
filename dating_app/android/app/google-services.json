@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734938544775",
+    "project_id": "dating-app-88e50",
+    "storage_bucket": "dating-app-88e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734938544775:android:850bbebad6e50b901b9622",
+        "android_client_info": {
+          "package_name": "com.muhammadali.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734938544775-9bpcb12rh5it3g602tithr9eklju4lkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjtF7Lqyga7EN8RdNvbN-eAYP1NhvqVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734938544775-9bpcb12rh5it3g602tithr9eklju4lkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
